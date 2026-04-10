@@ -5,8 +5,6 @@
 
 ---
 
-## Your Specs (i5 13th Gen · 16GB RAM · RTX 3050 6GB)
-
 | Task | Mode | Time |
 |---|---|---|
 | Training | RTX 3050 (GPU) | ~2–3 hrs (10 epochs) |
